@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jeffr-boop
 - 👀 I’m interested in the futuure👌😂😂
-- 🌱 I’m currently learning python in machine learing and AI😍
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-currently working on learnig java...
+THATS ALL.
 
 <!---
 jeffr-boop/jeffr-boop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
